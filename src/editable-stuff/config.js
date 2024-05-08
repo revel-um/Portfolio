@@ -64,7 +64,7 @@ const about = {
 // If you want to display specfic projects, add the repository names,
 //      i.e ["repository-1", "repo-2"]
 const repos = {
-  show: false,
+  show: true,
   heading: "Recent Projects",
   gitHubUsername: "revel-um",
   reposLength: 4,
