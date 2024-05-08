@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "I'm not just a software engineer; I'm a tech enthusiast with an insatiable appetite for learning. My mission? To harness the power of emerging technologies and tackle real-world challenges head-on. I envision a future where convenience reigns supreme, where complex tasks are simplified to just a few clicks, and I'm determined to be at the forefront of making that vision a reality.",
-  resume: "https://docs.google.com/document/d/1eXca412Qq7hh2m_GviYYp_NyYCDw-eCRurAEiBPdLik/edit?usp=sharing",
+  resume: "https://drive.google.com/file/d/1MG3dVRrzZRZguvfs-gWQYTBRyIGc2Jdw/view?usp=sharing",
 };
 
 // PROJECTS SECTION
